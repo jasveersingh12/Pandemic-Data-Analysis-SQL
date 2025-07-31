@@ -1,0 +1,1 @@
+This project explores the impact of the COVID-19 pandemic through SQL-based data analysis. Using publicly available datasets, it demonstrates key techniques in data cleaning, transformation, and visualization to uncover insights into case trends, vaccination rates, and demographic effects
